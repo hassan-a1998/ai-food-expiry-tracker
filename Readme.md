@@ -27,6 +27,4 @@ Mobile app that scans product photos with OCR/ML to extract expiry dates, mainta
 MVP in 2 weeks: Launch on app stores, monetize via premium alerts ($1.99/mo).
 
 ## Next Steps
-Prototype wireframes attached. Open to PM collaboration!
-
-![Architecture Diagram] (add simple draw.io image via GitHub)
+Prototype wireframes attached. 
